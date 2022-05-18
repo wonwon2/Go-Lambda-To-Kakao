@@ -1,5 +1,5 @@
 # Go-Lambda-To-Kakao
-CloudWatch Alarm 발생을, Lambda로 이용하여 카카오톡으로 발생한 알람 전송 (Go 언어로 작성)
+CloudWatch Alarm 발생을, Lambda로 거쳐 카카오톡으로 전송 
 
 (만든지 얼마 안되서 미흡한 부분이 많으므로 양해 바랍니다. 그래도 갓 때린 팽이마냥 잘 돌아갑니다.)
 (현재 액세스키 문제로 사용불가 ㅠㅠ)
